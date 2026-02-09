@@ -1,6 +1,6 @@
 # Selenium FERIT Tests
 
-## ✨ Opis projekta
+## Opis projekta
 
 Ovaj projekt je osmišljen kao osnovni okvir za **automatsko testiranje web stranica** uz pomoć alata **Selenium WebDriver** i **TestNG**. Testira se web stranica **Demo Web Shop**. Testovi pokrivaju ključne funkcionalnosti web stranice kao što su **pretraživanje**, **prijava** i **dodavanje u košaricu**.
 
@@ -9,7 +9,7 @@ Ovaj projekt je osmišljen kao osnovni okvir za **automatsko testiranje web stra
 
 ---
 
-## 🔧 Tehnologije
+## Tehnologije
 
 | **Tehnologija**      | **Verzija**    | **Svrha**                                  |
 |----------------------|----------------|--------------------------------------------|
@@ -21,7 +21,7 @@ Ovaj projekt je osmišljen kao osnovni okvir za **automatsko testiranje web stra
 
 ---
 
-## 📝 Preduvjeti
+## Preduvjeti
 
 Da bi ovaj projekt radio, potrebno je imati:
 
@@ -32,7 +32,7 @@ Da bi ovaj projekt radio, potrebno je imati:
 
 ---
 
-## 🧪 Testni slučajevi
+## Testni slučajevi
 
 Projekt sadrži 5 automatiziranih testnih slučajeva:
 
@@ -44,7 +44,7 @@ Projekt sadrži 5 automatiziranih testnih slučajeva:
 
 ---
 
-## 🚀 Pokretanje testova
+## Pokretanje testova
 
 ### 1. **Pokretanje testova u IntelliJ IDEA**
 
@@ -62,7 +62,7 @@ mvn test
 
 ---
 
-## 📸 Slika s rezultatima
+## Slika s rezultatima
 
 Evo slike rezultata testova:
 
