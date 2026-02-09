@@ -58,6 +58,7 @@ U root direktoriju projekta pokrenite sljedeću komandu:
 
 ```bash
 mvn test
+```
 
 ---
 
