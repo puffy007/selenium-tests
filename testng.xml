@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AllTestsSuite">
+    <test name="HomePageTest">
+        <classes>
+            <class name="VerifyHomePageLoadTest"/>
+        </classes>
+    </test>
+    <test name="LoginTest">
+        <classes>
+            <class name="UserLoginTest"/>
+        </classes>
+    </test>
+    <test name="ProductTest">
+        <classes>
+            <class name="AddProductToCartTest"/>
+        </classes>
+    </test>
+    <test name="SearchTest">
+        <classes>
+            <class name="SearchFunctionalityTest"/>
+        </classes>
+    </test>
+    <test name="SortFilterTest">
+        <classes>
+            <class name="SortingAndFilterTest"/>
+        </classes>
+    </test>
+</suite>
