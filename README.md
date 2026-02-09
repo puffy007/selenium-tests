@@ -66,7 +66,7 @@ mvn test
 
 Evo slike rezultata testova:
 
-![Rezultati testova](image/Test_results.jpg)
+![Rezultati testova](image/Test_results.png)
 
 
 
