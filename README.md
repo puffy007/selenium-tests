@@ -58,3 +58,14 @@ U root direktoriju projekta pokrenite sljedeću komandu:
 
 ```bash
 mvn test
+
+---
+
+## 📸 Slika s rezultatima
+
+Evo slike rezultata testova:
+
+![Rezultati testova](image/Test_results.jpg)
+
+
+
